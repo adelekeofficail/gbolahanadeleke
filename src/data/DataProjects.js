@@ -29,17 +29,17 @@ export const projects_test = [
   {
     name: "Ciuka - Party Game",
     description:
-      "Mobile application realized in Flutter. it is a basic party game to liven up parties among friends",
-    link: "https://www.b-except.com/ciuka/share.html",
+      "Real Estate website for people around the world to find apartment",
+    link: "http://www.oglerent.com/",
     topics: ["flutter", "material-ui", "firebase"],
     private: true,
   },
   {
     name: "ISLab",
     description:
-      "Website created for ISLab of University of Milan (VAST). During my research collaboration with University of Milan I created a website for ISLab Laboratory.",
+      "Website created for ISLab of universite la hegj (VAST). During my research collaboration with universite la hegjI created a website for ISLab Laboratory.",
 
-    link: "https://islab.di.unimi.it/",
+    link: "https://universitelahegjbn.com/",
     topics: [
       "react",
       "javascript",
@@ -188,7 +188,7 @@ export const project = [
     description:
       "This project include my portfolio website. The site has been create with ReactJS. \n For Styles I wanted to use the Material UI",
 
-    link: "https://danielebocchino.github.io/",
+    link: "https://gbolahanadeleke.github.io/",
     github: "https://github.com/adelekeofficail/gbolahanadeleke.github.io",
     badges: [badgesList["react"], badgesList["mui"]],
     keywords: ["react", "personal"],
@@ -199,7 +199,7 @@ export const project = [
     description:
       "In this project I sis an analysis of Cloud Gaming. In particular I assumed a fake Cloud Gaming Company performed and calculated the KPI about it",
     available: [""],
-    github: "https://github.com/DanieleBocchino/BPE-Cloud-Gaming/",
+    github: "https://github.com/adelekeofficail/NGINXPROJECT",
     link: "",
     badges: [badgesList["bizagi"], badgesList["e3"], badgesList["aws"]],
     keywords: ["unimi", "aws"],
@@ -210,7 +210,7 @@ export const project = [
     description:
       "Exam project of Business Information System - The project is based on the BPI 2020 challenge of the ICPM congress, the goal of the project is Analyzing real-world business process data from BPI 2020 challenge using Disco, PM4Py, and Pandas to identify areas for improvement and propose solutions.",
     available: [""],
-    github: "https://github.com/DanieleBocchino/BIS",
+    github: "https://github.com/adelekeofficail/terraformmm",
     badges: [
       badgesList["python"],
       badgesList["colab"],
@@ -233,12 +233,12 @@ export const project = [
   },
   {
     title: "ISLab",
-    shortDescription: "Website created for ISLab of University of Milan (VAST)",
+    shortDescription: "Website created for ISLab of universite la hegj",
     description:
-      "During my research collaboration with University of Milan I created a website for ISLab Laboratory.",
+      "During my research collaboration with universite la hegj I created a website for ISLab Laboratory.",
 
     available: [""],
-    link: "https://islab.di.unimi.it/",
+    link: "https://universitelahegjbn.com/",
     github: null,
     badges: [
       badgesList["react"],
@@ -271,9 +271,9 @@ export const project = [
   {
     title: "Medilett",
     shortDescription:
-      "Platform created for department of philology at  UNIMI (PARLI')",
+      "Platform created for department of philology at universite la hegj (PARLI')",
     description:
-      "During my second research collaboration with University of Milan I created a private platform for Philology Department.",
+      "During my second research collaboration with universite la hegj I created a private platform for Philology Department.",
 
     available: [""],
     link: null,

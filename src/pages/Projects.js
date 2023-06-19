@@ -241,7 +241,7 @@ function gitBadge(private_repository, repository) {
       <span>
         {badge_list.map((badge, index) => (
           <a
-            href="https://github.com/DanieleBocchino/AWS-quicksight-project"
+            href="https://github.com/adelekeofficail/CICD_Java_gradle_application"
             target="_blank"
             style={{ marginX: 2, padding: 2 }}
           >

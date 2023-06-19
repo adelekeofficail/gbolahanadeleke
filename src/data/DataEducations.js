@@ -9,15 +9,15 @@ export const educations = [
     icon: <SchoolIcon sx={{ fontSize: 50 }} />,
     title: "Bachelor's Degree ",
     image: "/images/bachelor.jpeg",
-    link: "https://www.unimi.it/en/education/computer-science",
+    link: "https://universitelahegjbn.com/",
     description: "L-31 ~ Computer science",
-    years: "Sept. 2015 - Feb. 2020",
+    years: "Sept. 2015 - Jul. 2020",
     exams: [
       {
         id: 0,
         title: "Computer Architecture I",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/computer-architecture-i",
+          "https://universitelahegjbn.com/",
         teacher: "Borghese Nunzio Alberto",
         teacherLink: "https://www.unimi.it/en/ugov/person/alberto-borghese",
       },
@@ -25,7 +25,7 @@ export const educations = [
         id: 1,
         title: "Computer Programming",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/computer-programming-0",
+          "https://universitelahegjbn.com/",
         teacher: "Boldi Paolo",
         teacherLink: "https://www.unimi.it/en/ugov/person/paolo-boldi",
       },
@@ -33,7 +33,7 @@ export const educations = [
         id: 3,
         title: "Continuum Mathematics",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/continuum-mathematics-0",
+          "https://universitelahegjbn.com/",
         teacher: "Gori Anna",
         teacherLink: "http://www.mat.unimi.it/users/gori/Sito/Home.html",
       },
@@ -41,7 +41,7 @@ export const educations = [
         id: 4,
         title: "Automata and Formal Languages",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/automata-and-formal-languages",
+          "https://universitelahegjbn.com/",
         teacher: "Palano Beatrice Santa",
         teacherLink: "https://www.unimi.it/en/ugov/person/beatrice-palano",
       },
@@ -49,7 +49,7 @@ export const educations = [
         id: 5,
         title: "Computer Architecture II",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/computer-architecture-ii",
+          "https://universitelahegjbn.com/",
         teacher: "Borghese Nunzio Alberto",
         teacherLink: "https://www.unimi.it/en/ugov/person/alberto-borghese",
       },
@@ -57,7 +57,7 @@ export const educations = [
         id: 6,
         title: "Discrete Mathematics",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/discrete-mathematics-0",
+          "https://universitelahegjbn.com/",
         teacher: "Turrini Cristina",
         teacherLink: "https://www.unimi.it/it/ugov/person/cristina-turrini",
       },
@@ -65,7 +65,7 @@ export const educations = [
         id: 7,
         title: "Mathematical Logic",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/mathematical-logic",
+          "https://universitelahegjbn.com/",
         teacher: "Aguzzoli Stefano",
         teacherLink: "https://www.unimi.it/en/ugov/person/stefano-aguzzoli",
       },
@@ -73,7 +73,7 @@ export const educations = [
         id: 8,
         title: "Algorithms and Data Structures",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/algorithms-and-data-structures-0",
+          "https://universitelahegjbn.com/",
         teacher: "Pighizzini Giovanni",
         teacherLink: "https://www.unimi.it/en/ugov/person/giovanni-pighizzini",
       },
@@ -81,7 +81,7 @@ export const educations = [
         id: 9,
         title: "Operating Systems",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/operating-systems",
+          "https://universitelahegjbn.com/",
         teacher: "Bruschi Danilo Mauro",
         teacherLink: "https://www.unimi.it/en/ugov/person/danilo-bruschi",
       },
@@ -89,14 +89,14 @@ export const educations = [
         id: 10,
         title: "Databases",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/databases-0",
+          "https://universitelahegjbn.com/",
         teacher: "Ferrara Alfio",
         teacherLink: "https://www.unimi.it/it/ugov/person/alfio-ferrara",
       },
       {
         id: 11,
         title: "Statistics and Data Analysis",
-        link: "https://www.unimi.it/en/education/computer-science",
+        link: "https://universitelahegjbn.com/",
         teacher: "Malchiodi Dario",
         teacherLink: "https://www.unimi.it/it/ugov/person/dario-malchiodi",
       },
@@ -104,7 +104,7 @@ export const educations = [
         id: 12,
         title: "Computer Networks",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/computer-networks-0",
+          "https://universitelahegjbn.com/",
         teacher: "Rossi Gian Paolo",
         teacherLink: "https://www.unimi.it/en/ugov/person/gianpaolo-rossi",
       },
@@ -112,7 +112,7 @@ export const educations = [
         id: 13,
         title: "Software Engineering",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/software-engineering",
+          "https://universitelahegjbn.com/",
         teacher: "Bellettini Carlo Nicola Maria",
         teacherLink: "https://www.unimi.it/en/ugov/person/carlo-bellettini",
       },
@@ -120,7 +120,7 @@ export const educations = [
         id: 14,
         title: "Cryptography I",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2022/cryptography-i",
+          "https://universitelahegjbn.com/",
         teacher: "Visconti Andrea",
         teacherLink: "https://www.unimi.it/en/ugov/person/andrea-visconti",
       },
@@ -128,7 +128,7 @@ export const educations = [
         id: 15,
         title: "Information Systems",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2022/information-systems",
+          "https://universitelahegjbn.com/",
         teacher: "Castano Silvana",
         teacherLink: "https://www.unimi.it/en/ugov/person/silvana-castano",
       },
@@ -136,14 +136,14 @@ export const educations = [
         id: 16,
         title: "Security and Privacy",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2021/security",
+          "https://universitelahegjbn.com/",
         teacher: "Andrea Lanzi",
         teacherLink: "https://www.unimi.it/en/ugov/person/andrea-lanzi",
       },
       {
         id: 17,
         title: "information and transmission theory",
-        link: "https://homes.di.unimi.it/~cesabian/tinfo/",
+        link: "https://universitelahegjbn.com/",
         teacher: "Visconti Andrea",
         teacherLink: "https://www.unimi.it/en/ugov/person/andrea-visconti",
       },
@@ -151,7 +151,7 @@ export const educations = [
         id: 18,
         title: "digital products law",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2022/information-technology-law",
+          "https://universitelahegjbn.com/",
         teacher: "Jori Matteo Giacomo",
         teacherLink: "https://www.unimi.it/it/ugov/person/matteo-jori",
       },
@@ -159,7 +159,7 @@ export const educations = [
         id: 19,
         title: "digital marketing",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2022/digital-marketing",
+          "https://universitelahegjbn.com/",
         teacher: "Tedeschi Toschi Alessandra",
         teacherLink:
           "https://www.linkedin.com/in/alessandra-tedeschi-toschi-2912078/?originalSubdomain=it",
@@ -170,15 +170,15 @@ export const educations = [
     icon: <SchoolIcon sx={{ fontSize: 50 }} />,
     title: "Master's Degree ",
     image: "/images/master.jpeg",
-    link: "https://www.unimi.it/en/education/computer-science-master",
+    link: "https://www.ucd.ie/medicine/studywithus/graduate/healthcareinformatics/mscartificialintelligenceaiformedicinemedicalresearch/",
     description: "LM-18 ~ Computer science",
-    years: "Sept. 2021 - July 2023",
+    years: "Sept. 2023 - July 2024",
     exams: [
       {
         id: 1,
         title: "Affective Computing",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/affective-computing",
+          "https://www.ucd.ie/medicine/studywithus/graduate/healthcareinformatics/mscartificialintelligenceaiformedicinemedicalresearch/",
         teacher: "Boccignone Giuseppe",
         teacherLink: "https://www.unimi.it/en/ugov/person/giuseppe-boccignone",
       },
@@ -186,7 +186,7 @@ export const educations = [
         id: 2,
         title: "Artificial Intelligence",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/artificial-intelligence-0",
+          "https://www.ucd.ie/medicine/studywithus/graduate/healthcareinformatics/mscartificialintelligenceaiformedicinemedicalresearch/",
         teacher: "Piuri Vincenzo",
         teacherLink: "https://www.unimi.it/en/ugov/person/vincenzo-piuri",
       },
@@ -194,7 +194,7 @@ export const educations = [
         id: 3,
         title: "Business Information Systems",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/business-information-sistems",
+          "https://www.ucd.ie/medicine/studywithus/graduate/healthcareinformatics/mscartificialintelligenceaiformedicinemedicalresearch/",
         teacher: "Ceravolo Paolo",
         teacherLink: "https://www.unimi.it/en/ugov/person/paolo-ceravolo",
       },
@@ -202,7 +202,7 @@ export const educations = [
         id: 4,
         title: "Business Process Engineering",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/business-process-engineering",
+          "https://www.ucd.ie/medicine/studywithus/graduate/healthcareinformatics/mscartificialintelligenceaiformedicinemedicalresearch/",
         teacher: "Gianini Gabriele",
         teacherLink: "https://www.unimi.it/en/ugov/person/gabriele-gianini",
       },
@@ -210,7 +210,7 @@ export const educations = [
         id: 5,
         title: "Intelligent Systems for Industry, Supply Chain and Environment",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/intelligent-systems-industry-supply-chain-and-environment",
+          "https://www.ucd.ie/medicine/studywithus/graduate/healthcareinformatics/mscartificialintelligenceaiformedicinemedicalresearch/",
         teacher: "Scotti Fabio",
         teacherLink: "https://www.unimi.it/en/ugov/person/fabio-scotti",
       },
@@ -218,7 +218,7 @@ export const educations = [
         id: 6,
         title: "Multimedia Architectures",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/multimedia-architectures",
+          "https://www.ucd.ie/medicine/studywithus/graduate/healthcareinformatics/mscartificialintelligenceaiformedicinemedicalresearch/",
         teacher: "Valtolina Stefano",
         teacherLink: "https://www.unimi.it/en/ugov/person/stefano-valtolina",
       },
@@ -226,7 +226,7 @@ export const educations = [
         id: 7,
         title: "Multimedial Techa Organization and Digitalization",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/multimedial-techa-organization-and-digitalization-0",
+          "https://www.ucd.ie/medicine/studywithus/graduate/healthcareinformatics/mscartificialintelligenceaiformedicinemedicalresearch/",
         teacher: "Haus Goffredo Maria",
         teacherLink: "https://www.unimi.it/en/ugov/person/goffredo-haus",
       },
@@ -234,7 +234,7 @@ export const educations = [
         id: 8,
         title: "Natural Interaction",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/natural-interaction",
+          "https://www.ucd.ie/medicine/studywithus/graduate/healthcareinformatics/mscartificialintelligenceaiformedicinemedicalresearch/",
         teacher: "Boccignone Giuseppe",
         teacherLink: "https://www.unimi.it/en/ugov/person/giuseppe-boccignone",
       },
@@ -242,7 +242,7 @@ export const educations = [
         id: 9,
         title: "Privacy and Data Protection",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/privacy-and-data-protection",
+          "https://www.ucd.ie/medicine/studywithus/graduate/healthcareinformatics/mscartificialintelligenceaiformedicinemedicalresearch/",
         teacher: "Samarati Pierangela",
         teacherLink: "https://www.unimi.it/en/ugov/person/pierangela-samarati",
       },
@@ -250,7 +250,7 @@ export const educations = [
         id: 10,
         title: "Web Algorithmic",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2023/web-algorithmics",
+          "https://www.ucd.ie/medicine/studywithus/graduate/healthcareinformatics/mscartificialintelligenceaiformedicinemedicalresearch/",
         teacher: "Vigna Sebastiano",
         teacherLink: "https://www.unimi.it/en/ugov/person/sebastiano-vigna",
       },
@@ -258,7 +258,7 @@ export const educations = [
         id: 11,
         title: "Biometric Systems",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2022/biometric-systems",
+          "https://www.ucd.ie/medicine/studywithus/graduate/healthcareinformatics/mscartificialintelligenceaiformedicinemedicalresearch/",
         teacher: "Scotti Fabio",
         teacherLink: "https://www.unimi.it/en/ugov/person/fabio-scotti",
       },
@@ -266,7 +266,7 @@ export const educations = [
         id: 12,
         title: "Advanced Biometrics",
         link:
-          "https://www.unimi.it/en/education/degree-programme-courses/2022/advanced-biometrics",
+          "https://www.ucd.ie/medicine/studywithus/graduate/healthcareinformatics/mscartificialintelligenceaiformedicinemedicalresearch/",
         teacher: "Scotti Fabio",
         teacherLink: "https://www.unimi.it/en/ugov/person/fabio-scotti",
       },

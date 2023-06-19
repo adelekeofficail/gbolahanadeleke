@@ -30,9 +30,9 @@ export const projects = [
   {
     name: "ISLab",
     description:
-      "Website created for ISLab of University of Milan (VAST). During my research collaboration with University of Milan I created a website for ISLab Laboratory.",
+      "Website created for ISLab of universite la hegj (VAST). During my research collaboration with universite la hegj I created a website for ISLab Laboratory.",
 
-    link: "https://islab.di.unimi.it/",
+    link: "https://universitelahegjbn.com/",
     languages: [
       "react",
       "js",

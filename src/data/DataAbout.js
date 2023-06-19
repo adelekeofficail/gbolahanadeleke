@@ -15,7 +15,7 @@ export const roles = "MSc Student in Computer Science";
 export const extra = [
   {
     title: "GitHub",
-    link: "https://github.com/DanieleBocchino",
+    link: "https://github.com/adelekeofficail",
     icon: <GitHub fontSize="large" />,
   },
   {

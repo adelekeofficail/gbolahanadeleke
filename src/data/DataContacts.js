@@ -22,9 +22,9 @@ import { ReactComponent as MyResume } from "../svg/resume.svg";
 
 export const contacts = [
   {
-    data: "bocchino.daniele@gmail.com",
+    data: "adelekegbolahan001@gmail.com",
     name: "Email Address",
-    href: `mailto:bocchino.daniele@gmail.com`,
+    href: `mailto:adelekegbolahan001@gmail.com`,
     svg: MyMail,
     options: { color: DEFAULT_SKILL_RED },
   },
@@ -36,7 +36,7 @@ export const contacts = [
     options: { color: DEFAULT_SKILL_GREEN },
   },
   {
-    data: "Daniele Bocchino",
+    data: "Gbolahan Adeleke",
     name: "Linkedin",
     link: "https://www.linkedin.com/in/gbolahanadeleke/",
     href: `https://www.linkedin.com/in/gbolahanadeleke/`,
